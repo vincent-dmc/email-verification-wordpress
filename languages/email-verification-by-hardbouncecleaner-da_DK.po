@@ -1,0 +1,179 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 09:24:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-28 10:24+0700\n"
+"Last-Translator: Vincent <hello@hardbouncecleaner.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Email Verification by HardBounceCleaner"
+msgstr "Email Verifikation af HardBounceCleaner"
+
+msgid "Email Verification"
+msgstr "Email-bekræftelse"
+
+msgid "Activate the Crash report ?"
+msgstr "Aktivér Crash-rapporten?"
+
+msgid "Activate"
+msgstr "Aktiver"
+
+msgid "Lexicon"
+msgstr "Leksikon"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "The syntax of the emails are good."
+msgstr "Syntaks af e-mails er gode."
+
+msgid "Blue: Pending verification"
+msgstr "Blå: Afventer verifikation"
+
+msgid "Red: symbolize an invalid email"
+msgstr "Rød: symboliser en ugyldig email"
+
+msgid "Green: the email really exist"
+msgstr "Grøn: Emailen eksisterer virkelig"
+
+msgid "Orange: the email is valid at 80%"
+msgstr "Orange: emailen er gyldig til 80%"
+
+msgid "Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr "Lilla: Oplysninger mangler (skal forbindelsen til HardBounceCleaner)"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Role-based email addresses (like admin@, help@, sales@) are email addresses that are not associated with a particular person, be careful if you send a BtoC newsletter."
+msgstr "Rollbaserede emailadresser (som admin @, help @, sales @) er e-mailadresser, der ikke er knyttet til en bestemt person, pas på, hvis du sender et BtoC-nyhedsbrev."
+
+msgid "Disposable"
+msgstr "Engangs"
+
+msgid "Disposable email is a service that allows a registered user to receive email at a temporary address that expires after a certain time period elapses."
+msgstr "Disponibel email er en tjeneste, der giver en registreret bruger mulighed for at modtage e-mail på en midlertidig adresse, der udløber efter en vis tidsperiode."
+
+msgid "Mx"
+msgstr "Mx"
+
+msgid "An email exchanger (MX) is the server who will receive your emails, if it's not valid no email can be send."
+msgstr "En e-mail-veksler (MX) er den server, der modtager dine e-mails, hvis den ikke er gyldig, kan ingen email sendes."
+
+msgid "Risky"
+msgstr "Risky"
+
+msgid "Some providers use valid email addresses as Honeypot to catch Spam sender, be careful if your emails are too old or are not double opt-in."
+msgstr "Nogle udbydere bruger gyldige emailadresser som Honeypot til at fange Spam-afsender, pas på om dine e-mails er for gamle eller ikke er dobbelt opt-in."
+
+msgid "Connection with HardBouncerCleaner needed"
+msgstr "Forbindelse med HardBouncerCleaner er nødvendig"
+
+msgid "Email exist"
+msgstr "Email findes"
+
+msgid "Check if the email is valid and exist or not."
+msgstr "Kontroller, om e-mailen er gyldig og eksisterer eller ej."
+
+msgid "How it works"
+msgstr "Hvordan det virker"
+
+msgid "The emails in your WordPress database will be find, and checked daily by WP-Cron."
+msgstr "E-mailsne i din WordPress-database vil blive fundet og kontrolleres dagligt af WP-Cron."
+
+msgid "To be sur your WP-Cron system is working, you should install the WP-Cron Status Checker plugin, and check the result in your Dashboard."
+msgstr "For at være sur dit WP-Cron-system virker, skal du installere WP-Cron Status Checker-plugin'et og kontrollere resultatet i dit Dashboard."
+
+msgid "For the first activation a maximum of 100 emails will be detected, you will see the full list the day after."
+msgstr "For den første aktivering registreres maksimalt 100 e-mails, du vil se hele listen dagen efter."
+
+msgid "Connection with HardBounceCleaner"
+msgstr "Forbindelse med HardBounceCleaner"
+
+msgid "optional"
+msgstr "valgfri"
+
+msgid "First you have to create a Free account."
+msgstr "Først skal du oprette en gratis konto."
+
+msgid "Create a Free account"
+msgstr "Opret en gratis konto"
+
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr "Når det er færdigt, gå til API sektionen og kopier nøglen nedenfor."
+
+msgid "API section"
+msgstr "API sektion"
+
+msgid "Api Key"
+msgstr "Api Key"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Need Help ?"
+msgstr "Brug for hjælp ?"
+
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr "Du kan kontakte os på hello@hardbouncecleaner.com for spørgsmål."
+
+msgid "Email list"
+msgstr "Email liste"
+
+msgid "Files to download"
+msgstr "Filer, der skal downloades"
+
+msgid "Download"
+msgstr "Hent"
+
+msgid "Modified"
+msgstr "Modificeret"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Unable to create directory"
+msgstr "Kan ikke oprette mappe"
+
+msgid "Database update version %d error"
+msgstr "Database opdateringsversion% d fejl"
+
+msgid "An exception occured"
+msgstr "En undtagelse opstod"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "error"
+msgstr "fejl"
+
+msgid "HardBouncerCleaner needed"
+msgstr "HardBouncerCleaner havde brug for"
+
+msgid "Date added"
+msgstr "Dato tilføjet"
+
+msgid "https://www.hardbouncecleaner.com/"
+msgstr "https://www.hardbouncecleaner.com/"
+
+msgid "This plugin finds all the emails in Wordpress, checks if these emails are valid. You will then be able to download these lists of cleaned emails."
+msgstr "Dette plugin finder alle e-mails i Wordpress, kontrollerer om disse e-mails er gyldige. Du kan derefter downloade disse lister over rensede e-mails."
+
+msgid "HardBounceCleaner"
+msgstr "HardBounceCleaner"
+

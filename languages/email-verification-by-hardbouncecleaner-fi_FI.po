@@ -1,0 +1,179 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 09:24:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-28 10:24+0700\n"
+"Last-Translator: Vincent <hello@hardbouncecleaner.com>\n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Email Verification by HardBounceCleaner"
+msgstr "Sähköpostin vahvistus HardBounceCleanerilla"
+
+msgid "Email Verification"
+msgstr "Sähköpostivarmistus"
+
+msgid "Activate the Crash report ?"
+msgstr "Aktivoi kaatumisraportti?"
+
+msgid "Activate"
+msgstr "Aktivoi"
+
+msgid "Lexicon"
+msgstr "Sanakirja"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "The syntax of the emails are good."
+msgstr "Sähköpostien syntaksi on hyvä."
+
+msgid "Blue: Pending verification"
+msgstr "Sininen: Odottaa tarkistusta"
+
+msgid "Red: symbolize an invalid email"
+msgstr "Punainen: symboloi virheellistä sähköpostia"
+
+msgid "Green: the email really exist"
+msgstr "Vihreä: sähköposti on todella olemassa"
+
+msgid "Orange: the email is valid at 80%"
+msgstr "Orange: sähköposti on voimassa 80%"
+
+msgid "Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr "Purppura: tiedot puuttuvat (tarvitset yhteyden HardBounceCleaneriin)"
+
+msgid "Role"
+msgstr "Rooli"
+
+msgid "Role-based email addresses (like admin@, help@, sales@) are email addresses that are not associated with a particular person, be careful if you send a BtoC newsletter."
+msgstr "Roolipohjaiset sähköpostiosoitteet (kuten admin @, help @, myynti @) ovat sähköpostiosoitteita, jotka eivät liity tiettyyn henkilöön. Ole varovainen, jos lähetät BtoC-uutiskirjeen."
+
+msgid "Disposable"
+msgstr "Kertakäyttöinen"
+
+msgid "Disposable email is a service that allows a registered user to receive email at a temporary address that expires after a certain time period elapses."
+msgstr "Kertakäyttöinen sähköposti on palvelu, jonka avulla rekisteröitynyt käyttäjä voi vastaanottaa sähköposteja väliaikaisella osoitteella, joka vanhenee tietyn ajan kuluttua."
+
+msgid "Mx"
+msgstr "Mx"
+
+msgid "An email exchanger (MX) is the server who will receive your emails, if it's not valid no email can be send."
+msgstr "Sähköpostikuvaaja (MX) on palvelin, joka vastaanottaa sähköpostisi, jos se ei ole kelvollinen, sähköpostia ei voida lähettää."
+
+msgid "Risky"
+msgstr "Riskialtis"
+
+msgid "Some providers use valid email addresses as Honeypot to catch Spam sender, be careful if your emails are too old or are not double opt-in."
+msgstr "Jotkut palveluntarjoajat käyttävät voimassa olevia sähköpostiosoitteita Honeypotin roskapostin lähettäjänä. Ole varovainen, jos sähköpostisi ovat liian vanhoja tai eivät ole kaksinkertaisia."
+
+msgid "Connection with HardBouncerCleaner needed"
+msgstr "Yhteys HardBouncerCleaneriin tarvitaan"
+
+msgid "Email exist"
+msgstr "Sähköposti on olemassa"
+
+msgid "Check if the email is valid and exist or not."
+msgstr "Tarkista, onko sähköposti voimassa ja onko olemassa."
+
+msgid "How it works"
+msgstr "Kuinka se toimii"
+
+msgid "The emails in your WordPress database will be find, and checked daily by WP-Cron."
+msgstr "WordPress-tietokannesi sähköpostit löytyvät ja tarkistetaan päivittäin WP-Cronilla."
+
+msgid "To be sur your WP-Cron system is working, you should install the WP-Cron Status Checker plugin, and check the result in your Dashboard."
+msgstr "Jotta WP-Cron-järjestelmäsi toimisi, sinun on asennettava WP-Cron Status Checker -laajennus ja tarkistettava tulokset hallintapaneelissa."
+
+msgid "For the first activation a maximum of 100 emails will be detected, you will see the full list the day after."
+msgstr "Ensimmäisen aktivoinnin yhteydessä havaitaan enintään 100 sähköpostia, näet täydellisen luettelon seuraavana päivänä."
+
+msgid "Connection with HardBounceCleaner"
+msgstr "Yhteys HardBounceCleaneriin"
+
+msgid "optional"
+msgstr "valinnainen"
+
+msgid "First you have to create a Free account."
+msgstr "Ensin sinun on luotava ilmainen tili."
+
+msgid "Create a Free account"
+msgstr "Luo ilmainen tili"
+
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr "Kun se on tehty, siirry API-osioon ja kopioi alla oleva avain."
+
+msgid "API section"
+msgstr "API-osio"
+
+msgid "Api Key"
+msgstr "Api-avain"
+
+msgid "Save"
+msgstr "Tallentaa"
+
+msgid "Need Help ?"
+msgstr "Tarvitsetko apua ?"
+
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr "Voit ottaa yhteyttä kysymyksiin hello@hardbouncecleaner.com."
+
+msgid "Email list"
+msgstr "Sähköpostiluettelo"
+
+msgid "Files to download"
+msgstr "Ladattavia tiedostoja"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Modified"
+msgstr "Modified"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Size"
+msgstr "Koko"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Unable to create directory"
+msgstr "Hakemistoa ei voitu luoda"
+
+msgid "Database update version %d error"
+msgstr "Tietokannan päivitysversio% d virhe"
+
+msgid "An exception occured"
+msgstr "Poikkeus tapahtui"
+
+msgid "yes"
+msgstr "kyllä"
+
+msgid "error"
+msgstr "virhe"
+
+msgid "HardBouncerCleaner needed"
+msgstr "HardBouncerCleaner tarvittiin"
+
+msgid "Date added"
+msgstr "Lisäyspäivämäärä"
+
+msgid "https://www.hardbouncecleaner.com/"
+msgstr "https://www.hardbouncecleaner.com/"
+
+msgid "This plugin finds all the emails in Wordpress, checks if these emails are valid. You will then be able to download these lists of cleaned emails."
+msgstr "Tämä plugin löytää kaikki sähköpostit Wordpressissa, tarkistaa, ovatko nämä sähköpostit kelvollisia. Sitten voit ladata nämä puhdistettujen sähköpostiviestien luettelot."
+
+msgid "HardBounceCleaner"
+msgstr "HardBounceCleaner"
+

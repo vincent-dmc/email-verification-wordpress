@@ -1,0 +1,53 @@
+.panel {
+    /*position: relative;*/
+    /*overflow: auto;*/
+    margin: 16px 0;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    font-size: 13px;
+    line-height: 1.3em;
+    flex-grow: 1;
+    width: 50%;
+}
+
+.panel:first-child {
+    margin-right: 8px;
+}
+
+.panel:last-child {
+    margin-left: 8px;
+}
+
+.panel-container {
+    display: flex;
+    width: 100%;
+}
+
+.column-email {
+    text-overflow: ellipsis;
+    height: 1em;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.label-info {
+    background-color: #5bc0de;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.list-color {
+    margin-left: 15px;
+}

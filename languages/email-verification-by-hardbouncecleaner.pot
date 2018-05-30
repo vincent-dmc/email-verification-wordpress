@@ -1,0 +1,255 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-"
+"verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 10:55:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  email-verification-by-hardbouncecleaner.pot (Email Verification by HardBounceCleaner 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: email-verification-by-hardbouncecleaner.php:55
+#: email-verification-by-hardbouncecleaner.php:103
+msgid "Email Verification by HardBounceCleaner"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:55
+msgid "Email Verification"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:108
+msgid "Activate the Crash report ?"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:112
+msgid "Activate"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:120
+msgid "Lexicon"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:122 list-table.php:263
+msgid "Email"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:122
+msgid "The syntax of the emails are good."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:124
+msgid "Blue: Pending verification"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:125
+msgid "Red: symbolize an invalid email"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:126
+msgid "Green: the email really exist"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:127
+msgid "Orange: the email is valid at 80%"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:128
+msgid ""
+"Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:131 list-table.php:264
+msgid "Role"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:132
+msgid ""
+"Role-based email addresses (like admin@, help@, sales@) are email addresses "
+"that are not associated with a particular person, be careful if you send a "
+"BtoC newsletter."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:134 list-table.php:265
+msgid "Disposable"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:135
+msgid ""
+"Disposable email is a service that allows a registered user to receive email "
+"at a temporary address that expires after a certain time period elapses."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:137 list-table.php:266
+msgid "Mx"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:138
+msgid ""
+"An email exchanger (MX) is the server who will receive your emails, if it's "
+"not valid no email can be send."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:140 list-table.php:267
+msgid "Risky"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:141
+msgid ""
+"Some providers use valid email addresses as Honeypot to catch Spam sender, "
+"be careful if your emails are too old or are not double opt-in."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:142
+#: email-verification-by-hardbouncecleaner.php:146
+msgid "Connection with HardBouncerCleaner needed"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:144 list-table.php:268
+msgid "Email exist"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:145
+msgid "Check if the email is valid and exist or not."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:152
+msgid "How it works"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:154
+msgid ""
+"The emails in your WordPress database will be find, and checked daily by WP-"
+"Cron."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:155
+msgid ""
+"To be sur your WP-Cron system is working, you should install the WP-Cron "
+"Status Checker plugin, and check the result in your Dashboard."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:157
+msgid ""
+"For the first activation a maximum of 100 emails will be detected, you will "
+"see the full list the day after."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:159
+msgid "Connection with HardBounceCleaner"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:160
+msgid "optional"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:163
+msgid "First you have to create a Free account."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:164
+msgid "Create a Free account"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:167
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:168
+msgid "API section"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:173
+msgid "Api Key"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:175
+msgid "Save"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:182
+msgid "Need Help ?"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:183
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:190
+msgid "Email list"
+msgstr ""
+
+#: email-verification-by-hardbouncecleaner.php:197
+msgid "Files to download"
+msgstr ""
+
+#: file-table.php:80
+msgid "Download"
+msgstr ""
+
+#: file-table.php:267
+msgid "Modified"
+msgstr ""
+
+#: file-table.php:268
+msgid "Name"
+msgstr ""
+
+#: file-table.php:269
+msgid "Size"
+msgstr ""
+
+#: file-table.php:270
+msgid "Url"
+msgstr ""
+
+#: file-table.php:326 lib/EmailVerification.php:1869
+msgid "Unable to create directory"
+msgstr ""
+
+#: lib/EmailVerification.php:169
+msgid "Database update version %d error"
+msgstr ""
+
+#: lib/Exception.php:73
+msgid "An exception occured"
+msgstr ""
+
+#: list-table.php:95 list-table.php:101 list-table.php:107 list-table.php:122
+msgid "yes"
+msgstr ""
+
+#: list-table.php:113
+msgid "error"
+msgstr ""
+
+#: list-table.php:119 list-table.php:128
+msgid "HardBouncerCleaner needed"
+msgstr ""
+
+#: list-table.php:262
+msgid "Date added"
+msgstr ""
+
+#. #-#-#-#-#  email-verification-by-hardbouncecleaner.pot (Email Verification by HardBounceCleaner 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  email-verification-by-hardbouncecleaner.pot (Email Verification by HardBounceCleaner 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.hardbouncecleaner.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin finds all the emails in Wordpress, checks if these emails are "
+"valid. You will then be able to download these lists of cleaned emails."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HardBounceCleaner"
+msgstr ""

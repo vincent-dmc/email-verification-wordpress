@@ -1,0 +1,179 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 09:24:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-28 10:24+0700\n"
+"Last-Translator: Vincent <hello@hardbouncecleaner.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Email Verification by HardBounceCleaner"
+msgstr "E-mailverificatie door HardBounceCleaner"
+
+msgid "Email Verification"
+msgstr "Email verificatie"
+
+msgid "Activate the Crash report ?"
+msgstr "Activeer het crash-rapport?"
+
+msgid "Activate"
+msgstr "Activeren"
+
+msgid "Lexicon"
+msgstr "Lexicon"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "The syntax of the emails are good."
+msgstr "De syntaxis van de e-mails is goed."
+
+msgid "Blue: Pending verification"
+msgstr "Blauw: wacht op verificatie"
+
+msgid "Red: symbolize an invalid email"
+msgstr "Rood: symboliseer een ongeldige e-mail"
+
+msgid "Green: the email really exist"
+msgstr "Groen: de e-mail bestaat echt"
+
+msgid "Orange: the email is valid at 80%"
+msgstr "Oranje: de e-mail is 80% geldig"
+
+msgid "Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr "Paars: informatie ontbreekt (de verbinding met HardBounceCleaner nodig)"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Role-based email addresses (like admin@, help@, sales@) are email addresses that are not associated with a particular person, be careful if you send a BtoC newsletter."
+msgstr "Op rollen gebaseerde e-mailadressen (zoals admin @, help @, sales @) zijn e-mailadressen die niet aan een bepaalde persoon zijn gekoppeld, wees voorzichtig als u een BtoC-nieuwsbrief verzendt."
+
+msgid "Disposable"
+msgstr "Beschikbaar"
+
+msgid "Disposable email is a service that allows a registered user to receive email at a temporary address that expires after a certain time period elapses."
+msgstr "Wegwerp-e-mail is een service waarmee een geregistreerde gebruiker e-mail kan ontvangen op een tijdelijk adres dat verloopt na een bepaalde periode."
+
+msgid "Mx"
+msgstr "Mx"
+
+msgid "An email exchanger (MX) is the server who will receive your emails, if it's not valid no email can be send."
+msgstr "Een e-mail exchanger (MX) is de server die uw e-mails ontvangt, als deze niet geldig is, kan geen e-mail worden verzonden."
+
+msgid "Risky"
+msgstr "Riskant"
+
+msgid "Some providers use valid email addresses as Honeypot to catch Spam sender, be careful if your emails are too old or are not double opt-in."
+msgstr "Sommige providers gebruiken geldige e-mailadressen als Honeypot om spam afzender te vangen, wees voorzichtig als uw e-mails te oud zijn of geen dubbele opt-in zijn."
+
+msgid "Connection with HardBouncerCleaner needed"
+msgstr "Verbinding met HardBouncerCleaner nodig"
+
+msgid "Email exist"
+msgstr "E-mail bestaat"
+
+msgid "Check if the email is valid and exist or not."
+msgstr "Controleer of de e-mail geldig is en bestaat of niet."
+
+msgid "How it works"
+msgstr "Hoe het werkt"
+
+msgid "The emails in your WordPress database will be find, and checked daily by WP-Cron."
+msgstr "De e-mails in uw WordPress-database zullen worden gevonden en dagelijks worden gecontroleerd door WP-Cron."
+
+msgid "To be sur your WP-Cron system is working, you should install the WP-Cron Status Checker plugin, and check the result in your Dashboard."
+msgstr "Als u wilt dat uw WP-Cron-systeem werkt, moet u de WP-Cron Status Checker-plug-in installeren en het resultaat in uw Dashboard controleren."
+
+msgid "For the first activation a maximum of 100 emails will be detected, you will see the full list the day after."
+msgstr "Voor de eerste activering worden maximaal 100 e-mails gedetecteerd, u ziet de volledige lijst de dag erna."
+
+msgid "Connection with HardBounceCleaner"
+msgstr "Verbinding met HardBounceCleaner"
+
+msgid "optional"
+msgstr "facultatief"
+
+msgid "First you have to create a Free account."
+msgstr "Eerst moet je een gratis account maken."
+
+msgid "Create a Free account"
+msgstr "Maak een gratis account"
+
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr "Als het klaar is, gaat u naar de API-sectie en kopieert u de onderstaande sleutel."
+
+msgid "API section"
+msgstr "API gedeelte"
+
+msgid "Api Key"
+msgstr "API sleutel"
+
+msgid "Save"
+msgstr "Besparen"
+
+msgid "Need Help ?"
+msgstr "Hulp nodig ?"
+
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr "U kunt contact met ons opnemen op hello@hardbouncecleaner.com voor vragen."
+
+msgid "Email list"
+msgstr "E-maillijst"
+
+msgid "Files to download"
+msgstr "Bestanden om te downloaden"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Modified"
+msgstr "Gewijzigde"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Unable to create directory"
+msgstr "Kan geen map maken"
+
+msgid "Database update version %d error"
+msgstr "Database update-versie% d error"
+
+msgid "An exception occured"
+msgstr "Er is een uitzondering opgetreden"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "error"
+msgstr "fout"
+
+msgid "HardBouncerCleaner needed"
+msgstr "HardBouncerCleaner nodig"
+
+msgid "Date added"
+msgstr "Datum toegevoegd"
+
+msgid "https://www.hardbouncecleaner.com/"
+msgstr "https://www.hardbouncecleaner.com/"
+
+msgid "This plugin finds all the emails in Wordpress, checks if these emails are valid. You will then be able to download these lists of cleaned emails."
+msgstr "Deze plugin vindt alle e-mails in Wordpress, controleert of deze e-mails geldig zijn. U kunt vervolgens deze lijsten met gereinigde e-mails downloaden."
+
+msgid "HardBounceCleaner"
+msgstr "HardBounceCleaner"
+

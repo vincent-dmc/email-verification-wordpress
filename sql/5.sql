@@ -1,0 +1,10 @@
+
+CREATE TABLE IF NOT EXISTS email_verification_by_hardbouncecleaner_mx (
+  id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  domain VARCHAR(64) NOT NULL,
+  error TINYINT(1) UNSIGNED NOT NULL DEFAULT 0,
+  PRIMARY KEY (id))
+  ENGINE = InnoDB
+  DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci
+;
+

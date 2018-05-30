@@ -1,0 +1,179 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 09:24:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-28 10:24+0700\n"
+"Last-Translator: Vincent <hello@hardbouncecleaner.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Email Verification by HardBounceCleaner"
+msgstr "Verifica e-mail di HardBounceCleaner"
+
+msgid "Email Verification"
+msgstr "Verifica email"
+
+msgid "Activate the Crash report ?"
+msgstr "Attiva il rapporto Crash?"
+
+msgid "Activate"
+msgstr "Attivare"
+
+msgid "Lexicon"
+msgstr "Lessico"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "The syntax of the emails are good."
+msgstr "La sintassi delle e-mail è buona."
+
+msgid "Blue: Pending verification"
+msgstr "Blu: in attesa di verifica"
+
+msgid "Red: symbolize an invalid email"
+msgstr "Rosso: simboleggia un'email non valida"
+
+msgid "Green: the email really exist"
+msgstr "Verde: l'email esiste davvero"
+
+msgid "Orange: the email is valid at 80%"
+msgstr "Arancione: l'email è valida all'80%"
+
+msgid "Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr "Viola: mancano le informazioni (serve la connessione a HardBounceCleaner)"
+
+msgid "Role"
+msgstr "Ruolo"
+
+msgid "Role-based email addresses (like admin@, help@, sales@) are email addresses that are not associated with a particular person, be careful if you send a BtoC newsletter."
+msgstr "Gli indirizzi email basati su ruoli (come admin @, help @, sales @) sono indirizzi email non associati a una determinata persona, fai attenzione se invii una newsletter BtoC."
+
+msgid "Disposable"
+msgstr "Usa e getta"
+
+msgid "Disposable email is a service that allows a registered user to receive email at a temporary address that expires after a certain time period elapses."
+msgstr "L'e-mail usa e getta è un servizio che consente a un utente registrato di ricevere e-mail a un indirizzo temporaneo che scade dopo un certo periodo di tempo."
+
+msgid "Mx"
+msgstr "Mx"
+
+msgid "An email exchanger (MX) is the server who will receive your emails, if it's not valid no email can be send."
+msgstr "Un email exchanger (MX) è il server che riceverà le tue e-mail, se non è valido nessuna email può essere inviata."
+
+msgid "Risky"
+msgstr "Rischioso"
+
+msgid "Some providers use valid email addresses as Honeypot to catch Spam sender, be careful if your emails are too old or are not double opt-in."
+msgstr "Alcuni provider utilizzano indirizzi email validi come Honeypot per catturare il mittente di spam, fai attenzione se le tue email sono troppo vecchie o non sono double opt-in."
+
+msgid "Connection with HardBouncerCleaner needed"
+msgstr "È necessaria la connessione con HardBouncerCleaner"
+
+msgid "Email exist"
+msgstr "L'email esiste"
+
+msgid "Check if the email is valid and exist or not."
+msgstr "Controlla se l'e-mail è valida ed esiste o no."
+
+msgid "How it works"
+msgstr "Come funziona"
+
+msgid "The emails in your WordPress database will be find, and checked daily by WP-Cron."
+msgstr "Le e-mail nel tuo database WordPress saranno trovate e controllate giornalmente da WP-Cron."
+
+msgid "To be sur your WP-Cron system is working, you should install the WP-Cron Status Checker plugin, and check the result in your Dashboard."
+msgstr "Per essere sicuro che il tuo sistema WP-Cron funzioni, devi installare il plugin WP-Cron Status Checker e controllare il risultato nella tua Dashboard."
+
+msgid "For the first activation a maximum of 100 emails will be detected, you will see the full list the day after."
+msgstr "Per la prima attivazione verrà rilevato un massimo di 100 e-mail, l'elenco completo verrà visualizzato il giorno successivo."
+
+msgid "Connection with HardBounceCleaner"
+msgstr "Connessione con HardBounceCleaner"
+
+msgid "optional"
+msgstr "opzionale"
+
+msgid "First you have to create a Free account."
+msgstr "Per prima cosa devi creare un account gratuito."
+
+msgid "Create a Free account"
+msgstr "Crea un account gratis"
+
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr "Una volta fatto vai alla sezione API e copia la chiave qui sotto."
+
+msgid "API section"
+msgstr "Sezione API"
+
+msgid "Api Key"
+msgstr "Chiave Api"
+
+msgid "Save"
+msgstr "Salvare"
+
+msgid "Need Help ?"
+msgstr "Ho bisogno di aiuto ?"
+
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr "Puoi contattarci a hello@hardbouncecleaner.com per qualsiasi domanda."
+
+msgid "Email list"
+msgstr "Lista e-mail"
+
+msgid "Files to download"
+msgstr "File da scaricare"
+
+msgid "Download"
+msgstr "Scarica"
+
+msgid "Modified"
+msgstr "Modificata"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Size"
+msgstr "Dimensione"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Unable to create directory"
+msgstr "Impossibile creare la directory"
+
+msgid "Database update version %d error"
+msgstr "Versione di aggiornamento del database% d errore"
+
+msgid "An exception occured"
+msgstr "Si è verificata un'eccezione"
+
+msgid "yes"
+msgstr "sì"
+
+msgid "error"
+msgstr "errore"
+
+msgid "HardBouncerCleaner needed"
+msgstr "HardBouncerCleaner necessario"
+
+msgid "Date added"
+msgstr "Data aggiunta"
+
+msgid "https://www.hardbouncecleaner.com/"
+msgstr "https://www.hardbouncecleaner.com/"
+
+msgid "This plugin finds all the emails in Wordpress, checks if these emails are valid. You will then be able to download these lists of cleaned emails."
+msgstr "Questo plugin trova tutte le e-mail in Wordpress, controlla se queste e-mail sono valide. Sarai quindi in grado di scaricare questi elenchi di e-mail pulite."
+
+msgid "HardBounceCleaner"
+msgstr "HardBounceCleaner"
+

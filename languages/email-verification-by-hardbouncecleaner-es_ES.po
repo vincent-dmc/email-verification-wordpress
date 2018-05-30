@@ -1,0 +1,179 @@
+# Copyright (C) 2018 Email Verification by HardBounceCleaner
+# This file is distributed under the same license as the Email Verification by HardBounceCleaner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification by HardBounceCleaner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/email-verification-by-hardbouncecleaner\n"
+"POT-Creation-Date: 2018-05-20 09:24:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-28 10:24+0700\n"
+"Last-Translator: Vincent <hello@hardbouncecleaner.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Email Verification by HardBounceCleaner"
+msgstr "Verificación de correo electrónico por HardBounceCleaner"
+
+msgid "Email Verification"
+msgstr "Verificacion de email"
+
+msgid "Activate the Crash report ?"
+msgstr "¿Activar el informe de Crash?"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Lexicon"
+msgstr "Léxico"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "The syntax of the emails are good."
+msgstr "La sintaxis de los correos electrónicos es buena."
+
+msgid "Blue: Pending verification"
+msgstr "Azul: verificación pendiente"
+
+msgid "Red: symbolize an invalid email"
+msgstr "Rojo: simboliza un correo electrónico no válido"
+
+msgid "Green: the email really exist"
+msgstr "Verde: el correo electrónico realmente existe"
+
+msgid "Orange: the email is valid at 80%"
+msgstr "Naranja: el correo electrónico es válido al 80%"
+
+msgid "Purple: informations are missing (need the connection to HardBounceCleaner)"
+msgstr "Púrpura: falta información (necesita conexión a HardBounceCleaner)"
+
+msgid "Role"
+msgstr "Papel"
+
+msgid "Role-based email addresses (like admin@, help@, sales@) are email addresses that are not associated with a particular person, be careful if you send a BtoC newsletter."
+msgstr "Las direcciones de correo electrónico basadas en roles (como admin @, help @, sales @) son direcciones de correo electrónico que no están asociadas a una persona en particular, tenga cuidado si envía un boletín BtoC."
+
+msgid "Disposable"
+msgstr "Desechable"
+
+msgid "Disposable email is a service that allows a registered user to receive email at a temporary address that expires after a certain time period elapses."
+msgstr "El correo electrónico desechable es un servicio que permite que un usuario registrado reciba correo electrónico en una dirección temporal que expira después de que transcurra un determinado período de tiempo."
+
+msgid "Mx"
+msgstr "Mx"
+
+msgid "An email exchanger (MX) is the server who will receive your emails, if it's not valid no email can be send."
+msgstr "Un intercambiador de correo electrónico (MX) es el servidor que recibirá sus correos electrónicos, si no es válido, no se puede enviar un correo electrónico."
+
+msgid "Risky"
+msgstr "Arriesgado"
+
+msgid "Some providers use valid email addresses as Honeypot to catch Spam sender, be careful if your emails are too old or are not double opt-in."
+msgstr "Algunos proveedores utilizan direcciones de correo electrónico válidas como Honeypot para capturar el remitente de correo no deseado, tenga cuidado si sus correos electrónicos son demasiado antiguos o no son de doble opt-in."
+
+msgid "Connection with HardBouncerCleaner needed"
+msgstr "Conexión con HardBouncerCleaner needed"
+
+msgid "Email exist"
+msgstr "Correo electrónico existe"
+
+msgid "Check if the email is valid and exist or not."
+msgstr "Verifique si el correo electrónico es válido y existe o no."
+
+msgid "How it works"
+msgstr "Cómo funciona"
+
+msgid "The emails in your WordPress database will be find, and checked daily by WP-Cron."
+msgstr "Los correos electrónicos en su base de datos de WordPress serán encontrados, y verificados diariamente por WP-Cron."
+
+msgid "To be sur your WP-Cron system is working, you should install the WP-Cron Status Checker plugin, and check the result in your Dashboard."
+msgstr "Para estar seguro de que su sistema WP-Cron está funcionando, debe instalar el plugin WP-Cron Status Checker y verificar el resultado en su Dashboard."
+
+msgid "For the first activation a maximum of 100 emails will be detected, you will see the full list the day after."
+msgstr "Para la primera activación se detectará un máximo de 100 correos electrónicos, verá la lista completa al día siguiente."
+
+msgid "Connection with HardBounceCleaner"
+msgstr "Conexión con HardBounceCleaner"
+
+msgid "optional"
+msgstr "opcional"
+
+msgid "First you have to create a Free account."
+msgstr "Primero tienes que crear una cuenta gratis."
+
+msgid "Create a Free account"
+msgstr "Crea una cuenta nueva"
+
+msgid "Once it's done go to the API section  and copy the key below."
+msgstr "Una vez hecho esto, vaya a la sección API y copie la clave a continuación."
+
+msgid "API section"
+msgstr "Sección API"
+
+msgid "Api Key"
+msgstr "Clave API"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Need Help ?"
+msgstr "Necesitas ayuda ?"
+
+msgid "You can contact us at hello@hardbouncecleaner.com for any questions."
+msgstr "Puede contactarnos en hello@hardbouncecleaner.com para cualquier pregunta."
+
+msgid "Email list"
+msgstr "Lista de correo"
+
+msgid "Files to download"
+msgstr "Archivos para descargar"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Unable to create directory"
+msgstr "No se puede crear directorio"
+
+msgid "Database update version %d error"
+msgstr "Error al actualizar la versión de la base de datos% d"
+
+msgid "An exception occured"
+msgstr "Una excepción ocurrió"
+
+msgid "yes"
+msgstr "sí"
+
+msgid "error"
+msgstr "error"
+
+msgid "HardBouncerCleaner needed"
+msgstr "HardBouncerCleaner needed"
+
+msgid "Date added"
+msgstr "Fecha Agregada"
+
+msgid "https://www.hardbouncecleaner.com/"
+msgstr "https://www.hardbouncecleaner.com/"
+
+msgid "This plugin finds all the emails in Wordpress, checks if these emails are valid. You will then be able to download these lists of cleaned emails."
+msgstr "Este complemento encuentra todos los correos electrónicos en Wordpress, comprueba si estos correos electrónicos son válidos. Luego podrá descargar estas listas de correos electrónicos limpios."
+
+msgid "HardBounceCleaner"
+msgstr "HardBounceCleaner"
+
