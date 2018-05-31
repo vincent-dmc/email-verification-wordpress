@@ -52,10 +52,7 @@ if ( is_admin() ) {
 	add_action('plugins_loaded', 'email_verification_by_hardbouncecleaner_load_textdomain');
 	function email_verification_by_hardbouncecleaner_load_textdomain() {
 		load_plugin_textdomain( 'email-verification-by-hardbouncecleaner', false, dirname( plugin_basename(__FILE__) ) . '/languages/' );
-//		var_dump(is_textdomain_loaded('email-verification-by-hardbouncecleaner'), get_translations_for_domain( 'email-verification-by-hardbouncecleaner' ));
 	}
-
-
 
 	// admin_menu
 	add_action( 'admin_menu', 'email_verification_by_hardbouncecleaner_setup_menu' );
@@ -69,7 +66,6 @@ if ( is_admin() ) {
 	function load_admin_styles() {
 		wp_enqueue_style( 'custom_css', plugins_url('/admin/css/custom.css', __FILE__), false, EVH_VERSION );
 	}
-
 
 	function email_verification_by_hardbouncecleaner_render_list_page() {
 

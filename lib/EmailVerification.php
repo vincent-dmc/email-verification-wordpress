@@ -77,13 +77,13 @@ class EmailVerification {
 		$context = stream_context_create( $opts );
 		$api_url = 'https://www.hardbouncecleaner.com/api/v1/file/list?' . http_build_query( $args );
 		$data    = file_get_contents( $api_url, false, $context );
-		var_dump( $api_url, $data );
+
 		if ( $data === false ) {
 
 			return false;
 		}
 		$json = json_decode( $data, true );
-		var_dump( $json );
+
 		if ( ! $json['success'] ) {
 			update_option( EVH_PLUGIN_PREFIX . '_api_error_message', $json['error_message'] );
 		}
